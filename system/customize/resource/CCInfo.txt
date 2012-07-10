@@ -1,0 +1,5 @@
+﻿Project: JEWEL_CL_ICS_40
+SKU: Sprint WWE ROM
+ROM Build ID: 361715
+Build ID: 361716; SKU: Sprint WWE ROM default; CID: default; MNS: default
+Datetime: 2012/04/19 14:17:03
